@@ -1,0 +1,31 @@
+product_id,product_name,category_id,cost,retail_price,supplier_name,gross_margin_pct
+1,Energy Drink 16oz,1,1.8,3.49,Cascade Beverage Supply,0.484
+2,Bottled Water 24pk,1,3.8,6.99,Cascade Beverage Supply,0.456
+3,Sparkling Water 12pk,1,4.5,7.99,Cascade Beverage Supply,0.437
+4,Soda 12pk,1,4.2,8.49,Cascade Beverage Supply,0.505
+5,Iced Coffee Bottle,1,1.6,3.29,Cascade Beverage Supply,0.514
+6,Chips Family Size,2,2.7,5.49,Summit Snack Distributors,0.508
+7,Protein Bar,2,1.2,2.79,Summit Snack Distributors,0.57
+8,Candy Pack,2,0.85,1.99,Summit Snack Distributors,0.573
+9,Trail Mix Bag,2,2.1,4.49,Summit Snack Distributors,0.532
+10,Cookies Pack,2,1.75,3.99,Summit Snack Distributors,0.561
+11,Paper Towels,3,5.5,9.99,Evergreen Household Supply,0.449
+12,Laundry Detergent,3,6.8,12.99,Evergreen Household Supply,0.477
+13,Trash Bags,3,4.5,8.99,Evergreen Household Supply,0.499
+14,Dish Soap,3,1.9,3.99,Evergreen Household Supply,0.524
+15,Toothpaste,4,1.75,4.49,Pacific Personal Care,0.61
+16,Shampoo,4,3.9,8.99,Pacific Personal Care,0.566
+17,Deodorant,4,2.2,5.49,Pacific Personal Care,0.599
+18,Hand Sanitizer,4,1.1,2.99,Pacific Personal Care,0.632
+19,Phone Charger,5,4.5,12.99,TechLink Wholesale,0.654
+20,USB-C Cable,5,2.1,7.99,TechLink Wholesale,0.737
+21,Earbuds,5,6.5,19.99,TechLink Wholesale,0.675
+22,Power Bank,5,9.5,24.99,TechLink Wholesale,0.62
+23,Instant Noodles,6,0.65,1.79,Metro Pantry Supply,0.637
+24,Cereal Box,6,2.8,5.99,Metro Pantry Supply,0.533
+25,Coffee Grounds,6,4.6,9.99,Metro Pantry Supply,0.54
+26,Rice Bag 5lb,6,5.25,10.99,Metro Pantry Supply,0.522
+27,Sunscreen,7,3.5,8.99,Seasonal Goods LLC,0.611
+28,Ice Bag,7,1.25,3.49,Seasonal Goods LLC,0.642
+29,Umbrella,7,4.2,10.99,Seasonal Goods LLC,0.618
+30,Holiday Gift Wrap,7,1.5,4.49,Seasonal Goods LLC,0.666
